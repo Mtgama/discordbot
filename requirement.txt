@@ -1,0 +1,16 @@
+discord
+asyncio
+pyqt5
+ctypes
+pydub
+numpy
+pyautogui
+cv2
+logging
+comtypes
+pycaw
+pyaudio
+wave
+pygame
+keyboard
+win10toast
